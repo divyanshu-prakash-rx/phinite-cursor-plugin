@@ -1,0 +1,23 @@
+{
+  "name": "phinite",
+  "displayName": "Phinite",
+  "version": "0.4.3",
+  "description": "Build, ship, run and debug Phinite agent graphs from Cursor through the hosted Phinite MCP server (OAuth sign-in), with the playbook's design rules as skills and a local project script.",
+  "author": {
+    "name": "Phinite CIQ use-case team"
+  },
+  "repository": "https://github.com/Auto-AI-Labs/Cowork_Phinite_plugin",
+  "keywords": [
+    "phinite",
+    "agents",
+    "agent-graphs",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "phinite",
+    "agents",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

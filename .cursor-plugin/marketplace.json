@@ -1,0 +1,16 @@
+{
+  "name": "phinite",
+  "owner": {
+    "name": "Phinite CIQ use-case team"
+  },
+  "metadata": {
+    "description": "Phinite tools for Cursor: build, ship, run and debug Phinite agent graphs."
+  },
+  "plugins": [
+    {
+      "name": "phinite",
+      "source": ".",
+      "description": "Build, ship, run and debug Phinite agent graphs from Cursor."
+    }
+  ]
+}

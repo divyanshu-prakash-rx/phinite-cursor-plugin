@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+deploy-out/
+.env
+.env.*
+.DS_Store
